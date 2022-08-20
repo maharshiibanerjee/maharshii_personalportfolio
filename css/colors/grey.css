@@ -1,0 +1,60 @@
+/*
+ * Selection color
+ */
+ ::-moz-selection {
+    background-color: #6f6f6f;
+  }
+  
+  ::selection {
+    background-color: #02B7CE;
+  }
+  
+  /* background color */
+  .btn-primary,
+  .loading-mask,
+  .section-title h3::after,
+  .hexagon-item:hover .hex-item div::before,
+  .hexagon-item:hover .hex-item div::after,
+  .progress .bar,
+  .contact-social li:hover span {
+    background-color: #6f6f6f;
+  }
+  
+  .nicescroll-cursors {
+    background: #6f6f6f !important;
+  }
+  
+  /* color */
+  .primary,
+  .link:hover,
+  .filter .active,
+  .works-item h4,
+  .msg-success {
+    color: #6f6f6f;
+  }
+  
+  /* border color */
+  .testimonials .owl-dot.active {
+    border-color: #6f6f6f;
+  }
+  
+  /* border top color */
+  .site-wrapper,
+  .contact-social li:hover span::after,
+  .contact-social-hex:hover::before {
+    border-top-color: #6f6f6f;
+  }
+  
+  /* border bottom color */
+  .filter .active,
+  .contact-social li:hover span::before,
+  .contact-social-hex:hover::after {
+    border-bottom-color: #6f6f6f;
+  }
+  
+  /* fill color */
+  .service-hex:hover .fill,
+  .service-hex:hover .st1 {
+    fill: #6f6f6f;
+  }
+  
